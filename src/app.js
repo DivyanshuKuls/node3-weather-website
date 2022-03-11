@@ -4,7 +4,7 @@ const hbs = require('hbs')
 const { response } = require('express')
 const geocode = require('./utils/geocode')
 const forecast = require('./utils/forecast')
-//console.log(express)
+
 
 const app = express()
 
